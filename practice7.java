@@ -1,5 +1,3 @@
-import javax.security.auth.x500.X500PrivateCredential;
-
 public class practice7 {
     public static void main(String[] args){
         int x,y,z;
